@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>second page</p>
+      <p>third</p>
     </>
   )
 }

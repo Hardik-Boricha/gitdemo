@@ -4,11 +4,8 @@ function App() {
 
   return (
     <>
-     <h1>first name</h1>
-     <h1>last name</h1>
-     <h1>address</h1>
-     <h1>pincode</h1>
-     <h1>pincode1</h1>
+    <h1>data1</h1>
+
     </>
   )
 }
